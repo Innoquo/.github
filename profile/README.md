@@ -181,10 +181,6 @@ If your organisation is moving from AI experimentation to production, tell us:
 
 *More than ten years of production experience, converted into public and verifiable engineering evidence.*
 
-**Clarity in architecture. Control in operation. Confidence through evidence.**
-
-[**innoquo.com**](https://innoquo.com/) · [**innoquo.ch**](https://innoquo.ch/) · [**innoquo.es**](https://innoquo.es/)
-
 <div align="center">
 
 *Clarity in architecture. Control in operation. Confidence through evidence.*
