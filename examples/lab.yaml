@@ -1,0 +1,12 @@
+schema_version: 1
+id: 061
+priority: 1
+slug: bedrock-fastapi-runtime
+track: aws-bedrock-agentcore
+status: L3
+visibility: public
+languages: [en, fr]
+reusable_asset: bedrock-fastapi-service-template
+failure_tested: true
+cloud_verified: false
+last_verified: 2026-08-08
