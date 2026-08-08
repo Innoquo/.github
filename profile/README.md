@@ -36,6 +36,31 @@ INNOQUO helps organisations move from promising AI use cases to **controlled pro
 
 ---
 
+## Built from production experience
+
+INNOQUO's public engineering programme is new. **The experience behind it is not.**
+
+Our work draws on more than a decade of hands-on software engineering, client delivery and production operations: designing, deploying, integrating, troubleshooting and recovering platforms across multiple cloud and on-premises environments.
+
+The scenarios explored in these repositories are informed by recurring problems encountered in real production systems:
+
+- Identity, permission and credential failures.
+- Unreliable deployments and incomplete rollback procedures.
+- Capacity bottlenecks, resource exhaustion and scaling failures.
+- Networking, DNS, connectivity and service-discovery problems.
+- Configuration drift and inconsistent environments.
+- Fragile third-party and enterprise application integrations.
+- Insufficient logging, metrics, tracing and alerting.
+- Unsafe automation and missing approval boundaries.
+- Unexpected infrastructure and cloud costs.
+- Incomplete backup, recovery and business-continuity procedures.
+
+We transform those lessons into **sanitised, reproducible and independently verifiable implementations**, without exposing client source code, confidential data or proprietary environments.
+
+**Production experience informs the work; repository evidence proves what has been independently reproduced and verified.**
+
+---
+
 ## Public by design. Private by obligation.
 
 Public engineering never compromises client trust.
@@ -61,7 +86,7 @@ This organisation is INNOQUO's **open engineering workspace** — a public catal
 | **Platform tools** | CLIs, inspectors, preflight checks, policy validators and diagnostics |
 | **Reproducible labs** | Build → run → test → break → recover → verify, end to end |
 | **Reference implementations** | Cloud AI, Kubernetes, RAG, agents, identity and delivery pipelines |
-| **Failure scenarios** | Realistic operational and security failure modes, diagnosed and recovered |
+| **Failure scenarios** | Production-informed operational and security failures, safely reproduced, diagnosed and recovered |
 | **Reusable assets** | Terraform modules, Helm charts, CI/CD workflows, dashboards and runbooks |
 
 No throwaway demos. Every repository leaves behind a tool, a control, a pattern or a recovery technique that can be reused.
@@ -137,11 +162,28 @@ Each repository documents its scope, architecture, decisions, threat model, fail
 
 ---
 
-## From public evidence to enterprise delivery
+## From production lessons to public evidence
 
-The same principles behind these labs guide our client work. If your organisation is moving from AI experimentation to production, tell us what the system must achieve, what it needs to access and what must never happen.
+These labs convert more than a decade of production engineering and client delivery experience into public evidence that can be inspected, executed and challenged.
+
+They are not presented as substitutes for client delivery. They demonstrate the engineering principles, operational judgement and verification methods that INNOQUO applies when building and operating real platforms.
+
+If your organisation is moving from AI experimentation to production, tell us:
+
+- What the system must achieve.
+- What data and applications it needs to access.
+- What actions it should be allowed to perform.
+- What must require human approval.
+- What must never happen.
+- What evidence will be required before production release.
 
 [**Request an Architecture Review**](https://innoquo.com/solutions/architecture-review/) · [**Talk about your case**](https://innoquo.com/contact/) · [help@innoquo.com](mailto:help@innoquo.com)
+
+*More than ten years of production experience, converted into public and verifiable engineering evidence.*
+
+**Clarity in architecture. Control in operation. Confidence through evidence.**
+
+[**innoquo.com**](https://innoquo.com/) · [**innoquo.ch**](https://innoquo.ch/) · [**innoquo.es**](https://innoquo.es/)
 
 <div align="center">
 
