@@ -95,6 +95,20 @@ No throwaway demos. Every repository leaves behind a tool, a control, a pattern 
 
 ---
 
+## Certification Labs
+
+Hands-on learning paths for professional certifications across cloud, infrastructure, AI, security and platform engineering.
+
+These repositories are not exam dumps or collections of notes. Each path turns public certification objectives into executable labs, troubleshooting scenarios and production-oriented exercises.
+
+Built to learn by doing: configure, troubleshoot, break, recover and verify.
+
+[**Browse Certification Labs →**](https://innoquo.com/certification-labs/)
+
+---
+
+---
+
 ## The 15 engineering tracks
 
 - `01` **Python AI Services** — FastAPI, contracts, concurrency, queues, caching and resilience.
