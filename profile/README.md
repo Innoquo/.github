@@ -32,7 +32,7 @@ INNOQUO helps organisations move from promising AI use cases to **controlled pro
 
 `Architecture Review` → `Platform Blueprint` → `Engineering` → `Operate & Evolve`
 
-[**See how we work →**](https://innoquo.com/solutions/architecture-review/)
+[**See how we work →**](https://innoquo.com/services/)
 
 ---
 
@@ -177,7 +177,7 @@ If your organisation is moving from AI experimentation to production, tell us:
 - What must never happen.
 - What evidence will be required before production release.
 
-[**Request an Architecture Review**](https://innoquo.com/solutions/architecture-review/) · [**Talk about your case**](https://innoquo.com/contact/) · [help@innoquo.com](mailto:help@innoquo.com)
+[**Request an Architecture Review**](https://innoquo.com/services/) · [**Talk about your case**](https://innoquo.com/contact/) · [help@innoquo.com](mailto:help@innoquo.com)
 
 *More than ten years of production experience, converted into public and verifiable engineering evidence.*
 
